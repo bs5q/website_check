@@ -6,7 +6,7 @@ This tool is designed to retrieve information about a website, including host de
 
 - [Node.js](https://nodejs.org/) installed on your machine
 - [npm](https://www.npmjs.com/) (Node Package Manager) comes with Node.js installation
-- [API Key whoisxmlapi](`https://www.whoisxmlapi.com/) (Node Package Manager) comes with Node.js installation
+- [API](https://www.whoisxmlapi.com/) to use whois API
 
 ## Installation
 
